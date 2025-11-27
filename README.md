@@ -29,14 +29,11 @@ This test validates endpoints of the Reqres public API: https://reqres.in/
 How to Run
 Open Cypress GUI:
 
-bash
-Copiar código
 npm run cypress:open
 Run all tests headless:
 
-bash
-Copiar código
 npm run cypress:run
 Screenshots are generated in cypress/screenshots/
 
 Videos are generated in cypress/videos/
+
