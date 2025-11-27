@@ -24,7 +24,6 @@ This test validates endpoints of the Reqres public API: https://reqres.in/
 ## Setup Requirements
 1. Install Node.js
 2. Install dependencies:
-   ```bash
    npm install
 How to Run
 Open Cypress GUI:
@@ -36,4 +35,5 @@ npm run cypress:run
 Screenshots are generated in cypress/screenshots/
 
 Videos are generated in cypress/videos/
+
 
